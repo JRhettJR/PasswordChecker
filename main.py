@@ -10,7 +10,7 @@ class Solution(object):
             Objective return true if the string is min to max charcters.
             :type password: str
             :type min: int
-            :tupe max: int
+            :type max: int
             :rtype: int
             """
             if min is None:
